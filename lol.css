@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(16, 135, 254, 0.822);
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.web1{
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family:Playfair Display;
+}
+
+.web2{width: 100%;
+border: solid white 5px;}
+
+.Relax-your-Head{
+    background-color: #1156cc; 
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 10px 2px; 
+    cursor: pointer; 
+    border-radius: 12px; 
+}
+
+.button1{background-color: #002fff6d;}
+
+.underbutton{
+     display: block; 
+            text-align: center; 
+            margin-top: 10px; 
+            text-decoration: none; 
+            color: #0066cc; 
+            font-size: 16px; }
